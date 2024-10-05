@@ -56,7 +56,7 @@
     {
       "linkId": "b390e55d-e260-47ea-8c37-f4a132524bd3",
       "type": "group",
-      "text": "COVID-10 FORM",
+      "text": "COVID-19 FORM",
       "item": [
         {
           "linkId": "efa5d319-1a80-4a01-de58-fbb57d6b3fd5",
@@ -155,7 +155,7 @@
         {
           "linkId": "a3aae731-4976-4848-834a-deec5fc7b6ab",
           "type": "string",
-          "text": "ANY ADVERSE EFFECTS?",
+          "text": "ANY VACCINE ADVERSE EFFECTS?",
           "required": false
         },
         {
